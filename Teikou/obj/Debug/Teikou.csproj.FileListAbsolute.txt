@@ -1,0 +1,8 @@
+C:\Users\Noriaki\Documents\Visual Studio 2013\Projects\Teikou\Teikou\bin\Debug\Teikou.exe.config
+C:\Users\Noriaki\Documents\Visual Studio 2013\Projects\Teikou\Teikou\bin\Debug\Teikou.exe
+C:\Users\Noriaki\Documents\Visual Studio 2013\Projects\Teikou\Teikou\bin\Debug\Teikou.pdb
+C:\Users\Noriaki\Documents\Visual Studio 2013\Projects\Teikou\Teikou\obj\Debug\Teikou.Form1.resources
+C:\Users\Noriaki\Documents\Visual Studio 2013\Projects\Teikou\Teikou\obj\Debug\Teikou.Properties.Resources.resources
+C:\Users\Noriaki\Documents\Visual Studio 2013\Projects\Teikou\Teikou\obj\Debug\Teikou.csproj.GenerateResource.Cache
+C:\Users\Noriaki\Documents\Visual Studio 2013\Projects\Teikou\Teikou\obj\Debug\Teikou.exe
+C:\Users\Noriaki\Documents\Visual Studio 2013\Projects\Teikou\Teikou\obj\Debug\Teikou.pdb
